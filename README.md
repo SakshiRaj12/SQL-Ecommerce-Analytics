@@ -53,7 +53,3 @@ Dataset used: [Olist E-commerce Dataset](https://www.kaggle.com/datasets/olistbr
 3. Run `queries.sql` for insights.
 
 ---
-
-## 📈 Example Resume Line
-
-> _“Developed an SQL-based analytics project using an e-commerce dataset (100k+ records) to analyze sales performance, customer behavior, and revenue trends. Implemented advanced queries for monthly revenue, top products, customer segmentation, and payment insights.”_
